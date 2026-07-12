@@ -155,4 +155,3 @@ Execute the PHPUnit test suite covering CRUD validations, amount threshold workf
 ```bash
 php artisan test
 ```
-All 33 tests run successfully, ensuring clean operation.
